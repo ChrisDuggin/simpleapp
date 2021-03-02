@@ -1,6 +1,6 @@
 import React from 'react';
 
-/**
+/*
  * Task:
  * 1. Create a basic form with a labelled 'name' field.
  * 2. Create a Label that is tied to the Input Field.
